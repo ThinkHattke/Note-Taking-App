@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "37884211893",
+    "firebase_url": "https://mycaptain-test.firebaseio.com",
+    "project_id": "mycaptain-test",
+    "storage_bucket": "mycaptain-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37884211893:android:fafbfb331c8c41f1c9c4fc",
+        "android_client_info": {
+          "package_name": "com.gaurav.june2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37884211893-r5r9qvvs91p1bettiu8m22khfm8pf5mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3bTH3aaK7HGFn835ZEr2sMO7b2rxO5DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37884211893-r5r9qvvs91p1bettiu8m22khfm8pf5mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
